@@ -1,33 +1,12 @@
-# Website
+## blog
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+### [2019-05-28-hola.md](2019-05-28-hola.md)
 
-## Installation
+### [2019-05-29-hello-world.md](2019-05-29-hello-world.md)
 
-```console
-yarn install
-```
+### [2019-05-30-welcome.md](2019-05-30-welcome.md)
 
-## Local Development
+### [NestJS sqlite222](blog/2021-7-19-nest-js-sqlite222__af76cdff-c7bc-4ef8-8ca7-766542cc58b7.md)
 
-```console
-yarn start
-```
+### [2021年7月20日](blog/2021-7-21-2021-7-20__fc9df5f8-80fd-468a-95da-b3aa90ed747d.md)
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-## Build
-
-```console
-yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-## Deployment
-
-```console
-GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
