@@ -28,3 +28,7 @@
 
 ### [pages](pages)
 
+## static
+
+### [img](img)
+
